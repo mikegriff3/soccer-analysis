@@ -1,0 +1,7 @@
+/input_videos/
+/output_videos/
+/runs/
+/stubs/
+/training/football-players-detection-1/
+/models/
+yolov8l.pt

@@ -18,7 +18,7 @@ def read_video(video_path):
   #print(f"Read {len(frames)} frames from the video")
   return frames
 
-def save_video(frames, output_path, fps=30.0):
+def save_video(frames, output_path, fps=24.0):
     if not frames:
         raise ValueError("No frames to save.")
     
